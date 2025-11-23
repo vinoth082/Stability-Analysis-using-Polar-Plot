@@ -38,7 +38,8 @@ else
 end
 ```
 ## Output:
-<img width="863" height="775" alt="image" src="https://github.com/user-attachments/assets/0f0c801a-381e-46db-bd16-c86bab927e69" />
+<img width="1158" height="1090" alt="image" src="https://github.com/user-attachments/assets/5cbb6613-4a2d-40f7-8ffa-13aaf14399c8" />
+
 
 ## Result:
 Thus the polar plot for the given transfer function was drawn and verified using MATLAB. <br>
