@@ -39,6 +39,8 @@ end
 ```
 ## Output:
 <img width="1158" height="1090" alt="image" src="https://github.com/user-attachments/assets/5cbb6613-4a2d-40f7-8ffa-13aaf14399c8" />
+<img width="1027" height="813" alt="image" src="https://github.com/user-attachments/assets/391e5377-dde5-40b5-a0b5-29e988336073" />
+
 
 
 ## Result:
